@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "TRAVEL-APP",
-    "slug": "TRAVEL-APP",
+    "slug": "travel-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "393382bb-55fd-41f7-8861-5fe5119d77f3"
+      }
+    },
+    "owner": "tengku_ijo"
   }
 }
